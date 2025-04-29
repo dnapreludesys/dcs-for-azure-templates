@@ -1,5 +1,9 @@
 # CHANGELOG
 
+# 0.0.26
+* Add support for DCS for Fabric Warehouse to Fabric Warehouse Discovery Pipeline
+* Add support for DCS for Fabric Warehouse to Fabric Warehouse Masking Pipeline
+
 # 0.0.25 
 * Introduced functionality for identifying nested directories in the `dcsazure_ADLS_to_ADLS_delimited_discovery_pl` pipeline.
 * Modified queries to select the root schema and execute the masking job at the entire container level in the `dcsazure_ADLS_to_ADLS_delimited_masking_pl` pipeline.

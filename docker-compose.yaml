@@ -59,6 +59,14 @@ services:
              cp VERSION.md dcsazure_AzureSQL_MI_to_AzureSQL_MI_mask_pl/VERSION.md &&
              zip dcsazure_AzureSQL_MI_to_AzureSQL_MI_mask_pl.zip dcsazure_AzureSQL_MI_to_AzureSQL_MI_mask_pl/* &&
              
+             cp LICENSE dcsazure_FabricWarehouse_to_FabricWarehouse_discovery_pl/LICENSE &&
+             cp VERSION.md dcsazure_FabricWarehouse_to_FabricWarehouse_discovery_pl/VERSION.md &&
+             zip dcsazure_FabricWarehouse_to_FabricWarehouse_discovery_pl.zip dcsazure_FabricWarehouse_to_FabricWarehouse_discovery_pl/* &&
+             
+             cp LICENSE dcsazure_FabricWarehouse_to_FabricWarehouse_mask_pl/LICENSE &&
+             cp VERSION.md dcsazure_FabricWarehouse_to_FabricWarehouse_mask_pl/VERSION.md &&
+             zip dcsazure_FabricWarehouse_to_FabricWarehouse_mask_pl.zip dcsazure_FabricWarehouse_to_FabricWarehouse_mask_pl/* &&
+
              rm *_pl/LICENSE &&
              rm *_pl/VERSION.md &&
              mv *.zip releases/."

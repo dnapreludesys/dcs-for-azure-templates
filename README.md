@@ -466,6 +466,8 @@ WHERE
   * [dcsazure_Databricks_to_Databricks_mask_pl](./dcsazure_Databricks_to_Databricks_mask_pl/README.md)
   * [dcsazure_Snowflake_to_Snowflake_discovery_pl](./dcsazure_Snowflake_to_Snowflake_discovery_pl/README.md)
   * [dcsazure_Snowflake_to_Snowflake_mask_pl](./dcsazure_Snowflake_to_Snowflake_mask_pl/README.md)
+  * [dcsazure_FabricWarehouse_to_FabricWarehouse_discovery_pl](../dcsazure_FabricWarehouse_to_FabricWarehouse_discovery_pl/README.md)
+  * [dcsazure_FabricWarehouse_to_FabricWarehouse_mask_pl](../dcsazure_FabricWarehouse_to_FabricWarehouse_mask_pl/README.md)
 
 
 ## Contribution

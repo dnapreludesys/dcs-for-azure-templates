@@ -16,5 +16,7 @@ This document provides an overview and links to the README files for various Azu
 - [dcsazure_Databricks_to_Databricks_mask_pl](../dcsazure_Databricks_to_Databricks_mask_pl/README.md): Databricks to Databricks Masking Pipeline
 - [dcsazure_Snowflake_to_Snowflake_discovery_pl](../dcsazure_Snowflake_to_Snowflake_discovery_pl/README.md): Snowflake to Snowflake Discovery Pipeline
 - [dcsazure_Snowflake_to_Snowflake_mask_pl](../dcsazure_Snowflake_to_Snowflake_mask_pl/README.md): Snowflake to Snowflake Masking Pipeline
+- [dcsazure_FabricWarehouse_to_FabricWarehouse_discovery_pl](../dcsazure_FabricWarehouse_to_FabricWarehouse_discovery_pl/README.md): Fabric Warehouse to Fabric Warehouse Discovery Pipeline
+- [dcsazure_FabricWarehouse_to_FabricWarehouse_mask_pl](../dcsazure_FabricWarehouse_to_FabricWarehouse_mask_pl/README.md): Fabric Warehouse to Fabric Warehouse Masking Pipeline
 
 Please refer to the respective README files for detailed information on each pipeline.
